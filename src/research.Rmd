@@ -1,0 +1,25 @@
+---
+title: "Research"
+---
+<br>
+
+## Working Papers
+
+<br>
+
+#### One Bullet Property Rights: Leader Turnover Causes Expropriation of FDI in Personalist Autocracies 
+
+(with [Timothy Liptrot](https://timothyliptrot.wordpress.com/))
+
+While the impact of democratic constraints on executive behavior has been extensively studied, the effect of constraints on autocrats remains under-explored. Our research shows that unlike democratic constraints on leaders, leader personalism in autocracies does not increase the likelihood of expropriation of FDI. However, by using plausibly exogenous changes in leadership caused by leaders' terminal illnesses and accidents, we find that the risk of expropriation increases during leadership transitions only in regimes where the outgoing leader is personalist. Our results suggest that the effect of leadership transitions is contingent on the degree of constraints imposed on the departing leader (measured by the predecessor's personalism). Our results are robust to controlling for various factors such as democracy, regime type, ideology, and natural resource rents.
+
+<br>
+
+## Work-in-Progress
+
+<br>
+
+* Identifying Food Baskets for Africa (with Aparajita Goyal, Ifeanyi Nzegwu Edochie, and Andrew L. Dabalen)
+* Can an Employment Guarantee Modernise Agriculture? Evidence from India 
+* Climate Change and Mechanization of Agriculture in India (with [Rimjhim Saxena](https://rimjhimsaxena.github.io/))
+* Temperature and High Stakes Exam Performance in Ethiopia (with [Patrick Behrer](https://www.apatrickbehrer.com/) and [Kibrom Tafere](https://sites.google.com/view/kibrom-tafere/home))
