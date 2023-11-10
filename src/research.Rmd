@@ -13,6 +13,12 @@ title: "Research"
 
 While the impact of democratic constraints on executive behavior has been extensively studied, the effect of constraints on autocrats remains under-explored. Our research shows that unlike democratic constraints on leaders, leader personalism in autocracies does not increase the likelihood of expropriation of FDI. However, by using plausibly exogenous changes in leadership caused by leaders' terminal illnesses and accidents, we find that the risk of expropriation increases during leadership transitions only in regimes where the outgoing leader is personalist. Our results suggest that the effect of leadership transitions is contingent on the degree of constraints imposed on the departing leader (measured by the predecessor's personalism). Our results are robust to controlling for various factors such as democracy, regime type, ideology, and natural resource rents.
 
+#### Temperature and High Stakes Exam Performance in Ethiopia 
+
+(with [Patrick Behrer](https://www.apatrickbehrer.com/) and [Kibrom Tafere](https://sites.google.com/view/kibrom-tafere/home))
+
+We use data spanning 2003-2019 from 2.47 million test-takers of a national high stakes university entrance exam in Ethiopia to study the impacts of temperature on learning outcomes. We find that high temperatures during the school year reduce test scores in a high-stakes exam in Ethiopia. Our results suggest that the scores of female students are less impacted by higher temperatures as compared to their male counterparts. Additionally, we find that students from schools located in hotter regions are able to better cope with higher temperatures as compared to their counterparts from cooler regions. We posit this as suggestive evidence of non-cooling adaptation to heat exposure, since Ethiopian schools have negligible adoption of cooling technologies.
+
 <br>
 
 ## Work-in-Progress
@@ -22,4 +28,3 @@ While the impact of democratic constraints on executive behavior has been extens
 * Identifying Food Baskets for Africa (with Aparajita Goyal, Ifeanyi Nzegwu Edochie, and Andrew L. Dabalen)
 * Can an Employment Guarantee Modernise Agriculture? Evidence from India 
 * Climate Change and Mechanization of Agriculture in India (with [Rimjhim Saxena](https://rimjhimsaxena.github.io/))
-* Temperature and High Stakes Exam Performance in Ethiopia (with [Patrick Behrer](https://www.apatrickbehrer.com/) and [Kibrom Tafere](https://sites.google.com/view/kibrom-tafere/home))
