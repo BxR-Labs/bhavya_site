@@ -2,24 +2,22 @@
 title: "Bhavya Srivastava"
 ---
 
-PhD Candidate in Economics
+Economist
 
 
-Georgetown University
+World Bank
 
 <br>
 <p>
 <img src="./profile_pic.jpg">
-I'm a PhD Candidate in Economics at Georgetown University. My work focuses on Environmental Economics, Development Economics, and Agricultural Economics. Previously, I have worked as a Consultant at the Africa Chief Economists’ Office, World Bank, Robert S McNamara Fellow at the Development Research Group, World Bank, and as a Research Associate at J-PAL South Asia.
+I am a development economist with expertise in environmental and agricultural economics. Currently, I am working as an Economist as part of the Young Professionals Program in the Agricultural and Food Global Practice's global unit at the World Bank. Here, I focus on re-purposing agricultural subsidies and promoting the use of green technologies in developing countries. My prior experience includes serving as a Robert S. McNamara Fellow and a consultant within the Development Research Group and the Africa Chief Economist’s Office at the World Bank, as well as working as a Research Associate on the Energy and Environment team at J-PAL South Asia.
+
+My research lies at the intersection of development, environmental sustainability, and agriculture, with a focus on the impacts of climate change and environmental shocks on outcomes such as out-migration, learning, and voting behavior. I am also investigating groundwater irrigation, exploring its potential for expansion in Sub-Saharan Africa and policies for its conservation in India. I employ a wide range of empirical strategies, including quasi-experimental methods and selection models, utilizing household surveys, administrative datasets, and remote sensing technology.
+
+I hold a PhD in Economics from Georgetown University, an MA in Economics from Boston University and Georgetown University, and a BA (Hons) in Economics from Lady Shri Ram College.
 </img>
 </p>
 
 <br>
-
-#### Research Areas:
-
-* Environmental Economics
-* Development Economics
-* Agricultural Economics
 
 Contact: [bs1088@georgetown.edu](bs1088@georgetown.edu)

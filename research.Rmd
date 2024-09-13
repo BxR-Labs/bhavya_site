@@ -7,11 +7,38 @@ title: "Research"
 
 <br>
 
+#### No Point Crying Over Spilled Oil: Impact of Crude Oil Spills on Out-Migration in Nigeria
+
+Nigeria has experienced over 18,000 crude oil spills in its 50-year history of oil production and supply. These spills are associated with land, surface water, and groundwater pollution. By employing a staggered difference-in-differences framework, I study adaptation measures adopted by households in the face of these land pollution shocks. I find that exposure to crude oil spill shocks increases the likelihood of out-migration. A sub-group analysis helps me investigate the causal mechanism driving my results. I find that oil spills are linked to migration only for those who resided in households that practiced agriculture at baseline. They report fewer hours worked in cultivation after exposure to oil spills. Weak evidence suggests that rural household members migrate to urban areas as a consequence of oil spill exposures, indicating a substitution away from their farms for better work or education opportunities elsewhere. Reported short-term migration responses to oil spill exposure are often marriage-related, while longer-term migrations are reportedly driven by work and education pursuits, predominantly among female members. Thus, persistent exposure to land pollution shocks can prompt agriculture-dependent households to resort to out-migration as a coping strategy.
+
+<br>
+
+#### High Temperature and Learning Outcomes: Evidence from Ethiopia 
+
+(with [A. Patrick Behrer](https://www.apatrickbehrer.com/) and [Kibrom Tafere](https://sites.google.com/view/kibrom-tafere/home))
+
+What is the impact of high temperatures on human capital accumulation in Sub-Saharan Africa? Rising temperatures, driven by climate change, and the role of human capital in driving development make answering this question imperative in order to understand the long-term impacts of climate change in the world's most vulnerable region. We use data from 2003-2019 for 2.47 million test takers of a national high stakes university entrance exam in Ethiopia to study the impacts of temperature on learning outcomes. We find that high temperatures during the school year leading up to the exam reduce test scores, controlling for temperatures when the exam is taken. Our results suggest that the scores of female students are less impacted by higher temperatures compared to their male counterparts. Additionally, we find that the scores of students from schools located in hotter regions are less impacted by higher temperatures compared to their counterparts from cooler regions. Our evidence indicates that the adverse effects of temperature are driven by impacts from within-classroom temperatures, rather than from indirect impacts on agriculture.  
+
+[Working Paper](https://documents1.worldbank.org/curated/en/099026303062419731/pdf/IDU1d26268e21171c147d21bed81a844d4d1d4b1.pdf?_gl=1*50s744*_gcl_au*MTA4MTU2Njg3Ny4xNzI1NTgzNTU4); [Blog](https://blogs.worldbank.org/en/developmenttalk/sweltering-scores--how-heat-impacts-student-learning-in-ethiopia); [Media](https://www.downtoearth.org.in/africa/world-bank-study-reveals-high-temperatures-linked-to-lower-exam-scores-in-ethiopia-95301#:~:text=World%20Bank%20study%20reveals%20high%20temperatures%20linked%20to%20lower%20exam%20scores%20in%20Ethiopia,-Students%20exposed%20to&text=There%20is%20a%20growing%20understanding,every%20aspect%20of%20vulnerable%20populations.)
+
+<br>
+
+#### Agriculture Production Potential of Groundwater Irrigation in Sub-Saharan Africa
+
+(with Ifeanyi Nzegwu Edochie, Aparajita Goyal, and Andrew L. Dabalen)
+
+Sub-Saharan Africa's low agricultural productivity exacerbates rural poverty. An important investment, the sustainable use of groundwater for irrigation, has the potential to increase agricultural productivity, but the region has been much slower to adopt this irrigation method compared to other regions, despite abundant reserves. Our study uses a simulation-driven approach to examine the benefits of sustainably utilizing groundwater for irrigation. By mapping data from 291,798 Global Agro-Ecological Zones to 8,099 groundwater grids, we model the production gains from groundwater irrigation for rain-fed croplands. Simulation results indicate groundwater access could increase output by 27.97% to 129.42%, contingent on crop and model conditions. This research facilitates the assessment of groundwater irrigation's transformative potential and identifies areas in Sub-Saharan Africa where investments can yield significant returns without depleting the groundwater table.
+
+[Working Paper](https://documents1.worldbank.org/curated/en/099011008272441423/pdf/IDU110f9e1a911a4c14e641baf71f82a4a534025.pdf?_gl=1*1c3rzeg*_gcl_au*MTA4MTU2Njg3Ny4xNzI1NTgzNTU4)
+
+<br>
+
 #### One Bullet Property Rights: Leader Turnover Causes Expropriation of FDI in Personalist Autocracies 
 
 (with [Timothy Liptrot](https://timothyliptrot.wordpress.com/))
 
 While the impact of democratic constraints on executive behavior has been extensively studied, the effect of constraints on autocrats remains under-explored. Our research shows that unlike democratic constraints on leaders, leader personalism in autocracies does not increase the likelihood of expropriation of FDI. However, by using plausibly exogenous changes in leadership caused by leaders' terminal illnesses and accidents, we find that the risk of expropriation increases during leadership transitions only in regimes where the outgoing leader is personalist. Our results suggest that the effect of leadership transitions is contingent on the degree of constraints imposed on the departing leader (measured by the predecessor's personalism). Our results are robust to controlling for various factors such as democracy, regime type, ideology, and natural resource rents.
+
 
 <br>
 
@@ -19,7 +46,8 @@ While the impact of democratic constraints on executive behavior has been extens
 
 <br>
 
-* Identifying Food Baskets for Africa (with Aparajita Goyal, Ifeanyi Nzegwu Edochie, and Andrew L. Dabalen)
 * Can an Employment Guarantee Modernise Agriculture? Evidence from India 
 * Climate Change and Mechanization of Agriculture in India (with [Rimjhim Saxena](https://rimjhimsaxena.github.io/))
-* Temperature and High Stakes Exam Performance in Ethiopia (with [Patrick Behrer](https://www.apatrickbehrer.com/) and [Kibrom Tafere](https://sites.google.com/view/kibrom-tafere/home))
+* Impact of Heat on Indian Elections (with [A. Patrick Behrer](https://www.apatrickbehrer.com/), Anwesha Bhattacharya, and Tanya Vaidya)
+* Agriculture Electricity Delivery and Groundwater Conservation: Evidence from India (with Jai Prakash Shivahare and Abhishek Deshwal)
+* Currency Crises and Female Labour Force Participation (with Angelo Reyes Diaz, Camila Gomes, and Satyam Anand)

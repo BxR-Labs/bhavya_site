@@ -11,4 +11,5 @@ pacman::p_load(
 setwd("~/GitHub/bhavya_site")
 
 
-rmarkdown::render_site("C:/Users/Bhavya/Documents/GitHub/bhavya_site/_site/src/_site.yml")
+#rmarkdown::render_site("C:/Users/Bhavya/Documents/GitHub/bhavya_site/_site/src/_site.yml")
+rmarkdown::render_site("_site/src/_site.yml")

@@ -1,0 +1,8 @@
+To run the code, load _site.yml on RStudio. Then on the right panel go to file / settings / set working directory and pick the bhavya_site folder.
+Type rmarkdown::render_site() into the command window.
+Copy all the files from the _site folder into the main bhavya_site folder (replace all).
+Commit + push changes to GitHub.
+
+For editing the code - edit src folder files. 
+
+Note: rename CV.pdf to cv.pdf.
