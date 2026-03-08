@@ -21,6 +21,7 @@ title: "Research"
 
 Nigeria has experienced over 18,000 crude oil spills in its 50-year history of oil production and supply. These spills are associated with land, surface water, and groundwater pollution. By employing a staggered difference-in-differences framework, I study adaptation measures adopted by households in the face of these land pollution shocks. I find that exposure to crude oil spill shocks increases the likelihood of out-migration. A sub-group analysis helps me investigate the causal mechanism driving my results. I find that oil spills are linked to migration only for those who resided in households that practiced agriculture at baseline. They report fewer hours worked in cultivation after exposure to oil spills. Weak evidence suggests that rural household members migrate to urban areas as a consequence of oil spill exposures, indicating a substitution away from their farms for better work or education opportunities elsewhere. Reported short-term migration responses to oil spill exposure are often marriage-related, while longer-term migrations are reportedly driven by work and education pursuits, predominantly among female members. Thus, persistent exposure to land pollution shocks can prompt agriculture-dependent households to resort to out-migration as a coping strategy.
 
+<br>
 
 #### Agriculture Production Potential of Groundwater Irrigation in Sub-Saharan Africa
 
@@ -30,12 +31,15 @@ Sub-Saharan Africa's low agricultural productivity exacerbates rural poverty. An
 
 [Working Paper](https://documents1.worldbank.org/curated/en/099011008272441423/pdf/IDU110f9e1a911a4c14e641baf71f82a4a534025.pdf?_gl=1*1c3rzeg*_gcl_au*MTA4MTU2Njg3Ny4xNzI1NTgzNTU4)
 
+<br>
+
 #### When the Pound Fell, So Did She: Currency Devaluation and Women’s Work in Egypt 
 
 (with Angelo Reyes Diaz, Camila Gomes, and Satyam Anand)
 
 According to standard economic theory, negative income shocks should increase labor supply among secondary earners. Yet, the opposite happened in Egypt. This paper investigates why female labor force participation (FLFP) in Egypt fell sharply following the country’s 2016 currency devaluation. We develop a general equilibrium model with overlapping generations to examine how macroeconomic shocks interact with structural gender barriers. Our model features sector-specific wage discrimination, gendered disutility from labor, and asymmetric human capital dynamics. We capture the currency devaluation’s price effects by following a two-sector model of tradeables and non-tradeables. Calibrated to pre-shock Egyptian data, the model reproduces the observed 30% decline in FLFP and highlights how gendered frictions--- such as wage penalties, caregiving burdens, and career fragility--- amplified the regressive effects of this macroeconomic adjustment in the form of female workforce exit. Counterfactual simulations show that targeted reforms such as equal pay, childcare support, and second-earner tax deductions could have meaningfully offset the shock’s adverse impact on women’s employment. Our results underscore the need to integrate gender constraints into macroeconomic policy design and offer a framework for more inclusive stabilization strategies in low- and middle-income countries.
 
+<br>
 
 #### One Bullet Property Rights: Leader Turnover Causes Expropriation of FDI in Personalist Autocracies 
 
