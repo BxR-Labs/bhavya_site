@@ -3,4 +3,6 @@ Type rmarkdown::render_site() into the command window.
 Copy all the files from the _site folder into the main bhavya_site folder (replace all).
 Commit + push changes to GitHub.
 
-For editing the code - edit src folder files. 
+For editing the code - edit src folder files. Make these edits to the main/src folder and the bhavya_site folder as well (no idea which of these seems to be working).
+
+Rename Cv to CV.pdf
